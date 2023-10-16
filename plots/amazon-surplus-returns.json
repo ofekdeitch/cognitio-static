@@ -1,0 +1,70 @@
+{
+    "id": "e618d687-8ba7-4b43-8c52-3d1602b042d5",
+    "name": "Amazon Surplus Returns",
+    "type": "PERCENT",
+    "group": {
+        "readableId": "1a9cd9",
+        "rootCrunchId": "b36da79b-8926-4668-badf-b5cb552af35e",
+        "crunches": [
+            {
+                "id": "c8df852c-786c-4c5c-bcc0-fb11bf77a487",
+                "type": "DATA_SOURCE",
+                "dataSourceType": "SUB_PLOT",
+                "subPlotId": "53ae53"
+            },
+            {
+                "id": "fe770921-2319-4c47-86eb-a3c36beba3bf",
+                "type": "DATA_SOURCE",
+                "dataSourceType": "SUB_PLOT",
+                "subPlotId": "4ac915"
+            },
+            {
+                "id": "b36da79b-8926-4668-badf-b5cb552af35e",
+                "type": "MERGE",
+                "mergeType": "SUBTRACTION",
+                "childCrunchId1": "c8df852c-786c-4c5c-bcc0-fb11bf77a487",
+                "childCrunchId2": "fe770921-2319-4c47-86eb-a3c36beba3bf"
+            }
+        ],
+        "subPlots": [
+            {
+                "readableId": "53ae53",
+                "rootCrunchId": "2da8fa53-0ff1-4331-ae5e-587fb66cd7cb",
+                "crunches": [
+                    {
+                        "id": "1602eda3-2d18-434c-9d90-59c1db84833c",
+                        "type": "DATA_SOURCE",
+                        "dataSourceType": "RAW_DATA",
+                        "dataSourceId": "df53958a-6778-4497-8d6f-36e1e81ad6cf"
+                    },
+                    {
+                        "id": "2da8fa53-0ff1-4331-ae5e-587fb66cd7cb",
+                        "type": "TRANSFORM",
+                        "transformType": "APPRECIATION",
+                        "childCrunchId": "1602eda3-2d18-434c-9d90-59c1db84833c"
+                    }
+                ],
+                "subPlots": []
+            },
+            {
+                "readableId": "4ac915",
+                "rootCrunchId": "bfe5b393-d9e3-43a5-a889-1d2f525ae1b3",
+                "crunches": [
+                    {
+                        "id": "1cb5fd9d-75bb-4ea1-af42-33588c456fcb",
+                        "type": "DATA_SOURCE",
+                        "dataSourceType": "RAW_DATA",
+                        "dataSourceId": "cf39c97b-61b9-467f-8df0-1a7c06f7d019"
+                    },
+                    {
+                        "id": "bfe5b393-d9e3-43a5-a889-1d2f525ae1b3",
+                        "type": "TRANSFORM",
+                        "transformType": "APPRECIATION",
+                        "childCrunchId": "1cb5fd9d-75bb-4ea1-af42-33588c456fcb"
+                    }
+                ],
+                "subPlots": []
+            }
+        ]
+    }
+}
