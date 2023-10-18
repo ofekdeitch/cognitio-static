@@ -8,6 +8,4 @@ So while we at SigmaLab do not recommend cherry-picking your stocks, trying to f
 
 ## Surplus Returns
 
-
-
 <iframe src="https://sigma-lab.netlify.app/plot/e618d687-8ba7-4b43-8c52-3d1602b042d5/embed"></iframe>
