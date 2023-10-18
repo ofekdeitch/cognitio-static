@@ -32,7 +32,7 @@ To calculate the surplus returns, subtract the benchmark's total returns from th
 
 > Surplus Returns = Stock's Total Returns - Benchmark's Total Returns
 
-It is easy to merge two data-plots in SigmaLab. Simply create a new plot and select two data sources. Then choose the Subtract values option as the merge function and subtract the Netflix Returns plot value from the S&P 500 Returns plot value.
+It is easy to merge two data-plots in SigmaLab. Simply create a new plot and select two data sources. Then choose the **Subtract values** option as the merge function and subtract the Netflix Returns plot value from the S&P 500 Returns plot value.
 
 <iframe src="https://sigma-lab.netlify.app/plot/e618d687-8ba7-4b43-8c52-3d1602b042d5/embed"></iframe>
 
