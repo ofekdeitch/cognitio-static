@@ -3,28 +3,22 @@
     "name": "Netflix Returns",
     "type": "PERCENT",
     "group": {
-        "readableId": "1a9cd9",
-        "rootCrunchId": "b36da79b-8926-4668-badf-b5cb552af35e",
+        "readableId": "53ae53",
+        "rootCrunchId": "2da8fa53-0ff1-4331-ae5e-587fb66cd7cb",
         "crunches": [
             {
-                "readableId": "53ae53",
-                "rootCrunchId": "2da8fa53-0ff1-4331-ae5e-587fb66cd7cb",
-                "crunches": [
-                    {
-                        "id": "1602eda3-2d18-434c-9d90-59c1db84833c",
-                        "type": "DATA_SOURCE",
-                        "dataSourceType": "RAW_DATA",
-                        "dataSourceId": "df53958a-6778-4497-8d6f-36e1e81ad6cf"
-                    },
-                    {
-                        "id": "2da8fa53-0ff1-4331-ae5e-587fb66cd7cb",
-                        "type": "TRANSFORM",
-                        "transformType": "APPRECIATION",
-                        "childCrunchId": "1602eda3-2d18-434c-9d90-59c1db84833c"
-                    }
-                ],
-                "subPlots": []
+                "id": "1602eda3-2d18-434c-9d90-59c1db84833c",
+                "type": "DATA_SOURCE",
+                "dataSourceType": "RAW_DATA",
+                "dataSourceId": "df53958a-6778-4497-8d6f-36e1e81ad6cf"
+            },
+            {
+                "id": "2da8fa53-0ff1-4331-ae5e-587fb66cd7cb",
+                "type": "TRANSFORM",
+                "transformType": "APPRECIATION",
+                "childCrunchId": "1602eda3-2d18-434c-9d90-59c1db84833c"
             }
-        ]
+        ],
+        "subPlots": []
     }
 }
