@@ -1,0 +1,24 @@
+{
+    "id": "2541c2e6-4e58-4e89-aef6-0c41c544fe00",
+    "name": "S&P 500 Returns",
+    "type": "PERCENT",
+    "group": {
+        "readableId": "4ac915",
+        "rootCrunchId": "bfe5b393-d9e3-43a5-a889-1d2f525ae1b3",
+        "crunches": [
+            {
+                "id": "1cb5fd9d-75bb-4ea1-af42-33588c456fcb",
+                "type": "DATA_SOURCE",
+                "dataSourceType": "RAW_DATA",
+                "dataSourceId": "cf39c97b-61b9-467f-8df0-1a7c06f7d019"
+            },
+            {
+                "id": "bfe5b393-d9e3-43a5-a889-1d2f525ae1b3",
+                "type": "TRANSFORM",
+                "transformType": "APPRECIATION",
+                "childCrunchId": "1cb5fd9d-75bb-4ea1-af42-33588c456fcb"
+            }
+        ],
+        "subPlots": []
+    }
+}
