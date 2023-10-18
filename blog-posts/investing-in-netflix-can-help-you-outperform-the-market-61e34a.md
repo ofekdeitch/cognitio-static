@@ -18,13 +18,13 @@ Our first step will be to pick a benchmark index that represents the market or a
 
 With SigmaLab, we can easily import the data of the S&P 500's stock price throughout the last year, and then apply a **Growth Over Time** transform function to it.
 
-<iframe src="https://sigma-lab.netlify.app/plot/e618d687-8ba7-4b43-8c52-3d1602b042d5/embed"></iframe>
+<iframe src="https://sigma-lab.netlify.app/plot/2541c2e6-4e58-4e89-aef6-0c41c544fe00/embed"></iframe>
 
 ## Calculate Netflix's Returns
 
 The next step is to import the data of **Netflix, Inc. (NFLX)** over the last year and apply the **Growth Over Time** transform function as before to determine Netflix's performance during that period.
 
-<iframe src="https://sigma-lab.netlify.app/plot/e618d687-8ba7-4b43-8c52-3d1602b042d5/embed"></iframe>
+<iframe src="https://sigma-lab.netlify.app/plot/ad57a134-2470-41d2-931a-ecc1c35ed4ea/embed"></iframe>
 
 ## Calculate Surplus Returns
 
@@ -35,6 +35,8 @@ To calculate the surplus returns, subtract the benchmark's total returns from th
 It is easy to merge two data-plots in SigmaLab. Simply create a new plot and select two data sources. Then choose the Subtract values option as the merge function and subtract the Netflix Returns plot value from the S&P 500 Returns plot value.
 
 <iframe src="https://sigma-lab.netlify.app/plot/e618d687-8ba7-4b43-8c52-3d1602b042d5/embed"></iframe>
+
+The chart above shows Netflix has outperformed the market by 31.7% during the past year!
 
 ## Conclusion
 
