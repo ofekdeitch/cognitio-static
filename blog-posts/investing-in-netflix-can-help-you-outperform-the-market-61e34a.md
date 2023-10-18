@@ -12,4 +12,32 @@ In stock valuation, surplus returns, or excess returns, refer to the excess retu
 
 The last year has been an interesting one for Netflix, so let's find out whether it has produced surplus returns.
 
+## Determine the Benchmark
+
+Our first step will be to pick a benchmark index that represents the market or asset class we are trying to compare. Since Netflix is a U.S. stock, the S&P 500 index will be used.
+
+With SigmaLab, we can easily import the data of the S&P 500's stock price throughout the last year, and then apply a **Growth Over Time** transform function to it.
+
 <iframe src="https://sigma-lab.netlify.app/plot/e618d687-8ba7-4b43-8c52-3d1602b042d5/embed"></iframe>
+
+## Calculate Netflix's Returns
+
+The next step is to import the data of **Netflix, Inc. (NFLX)** over the last year and apply the **Growth Over Time** transform function as before to determine Netflix's performance during that period.
+
+<iframe src="https://sigma-lab.netlify.app/plot/e618d687-8ba7-4b43-8c52-3d1602b042d5/embed"></iframe>
+
+## Calculate Surplus Returns
+
+To calculate the surplus returns, subtract the benchmark's total returns from the stock's total returns:
+
+> Surplus Returns = Stock's Total Returns - Benchmark's Total Returns
+
+It is easy to merge two data-plots in SigmaLab. Simply create a new plot and select two data sources. Then choose the Subtract values option as the merge function and subtract the Netflix Returns plot value from the S&P 500 Returns plot value.
+
+<iframe src="https://sigma-lab.netlify.app/plot/e618d687-8ba7-4b43-8c52-3d1602b042d5/embed"></iframe>
+
+## Conclusion
+
+Positive surplus returns indicate that the stock outperformed the benchmark, while negative surplus returns mean the stock underperformed the benchmark.
+
+Selectively choosing "good" stocks can be a rewarding approach for investors who are willing to put in the time and effort required for thorough research and monitoring. However, it also carries higher risks and may not consistently yield better results compared to passive, diversified investment strategies, such as index fund investing. It's essential to carefully consider your financial goals, risk tolerance, and level of expertise before deciding on an investment strategy.
