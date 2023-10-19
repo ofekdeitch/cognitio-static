@@ -4,7 +4,7 @@ However, many investors would argue that one cannot consistently beat the market
 
 Investing in individual stocks, especially those of a single company like Netflix, can be riskier than diversifying. While there's potential for higher returns, there's also a higher risk of losing your investment if the company faces challenges.
 
-So while we at SigmaLab do not recommend cherry-picking your stocks, trying to figure out if a specific stock outperformed the market is an interesting exercise.
+So while we at Cognitio do not recommend cherry-picking your stocks, trying to figure out if a specific stock outperformed the market is an interesting exercise.
 
 ## Surplus Returns
 
@@ -16,7 +16,7 @@ The last year has been an interesting one for Netflix, so let's find out whether
 
 Our first step will be to pick a benchmark index that represents the market or asset class we are trying to compare. Since Netflix is a U.S. stock, the S&P 500 index will be used.
 
-With SigmaLab, we can easily import the data of the S&P 500's stock price throughout the last year, and then apply a **Growth Over Time** transform function to it.
+With Cognitio, we can easily import the data of the S&P 500's stock price throughout the last year, and then apply a **Growth Over Time** transform function to it.
 
 <iframe src="https://sigma-lab.netlify.app/plot/2541c2e6-4e58-4e89-aef6-0c41c544fe00/embed"></iframe>
 
@@ -32,7 +32,7 @@ To calculate the surplus returns, subtract the benchmark's total returns from th
 
 > Surplus Returns = Stock's Total Returns - Benchmark's Total Returns
 
-It is easy to merge two data-plots in SigmaLab. Simply create a new plot and select two data sources. Then choose the **Subtract values** option as the merge function and subtract the Netflix Returns plot value from the S&P 500 Returns plot value.
+It is easy to merge two data-plots in Cognitio. Simply create a new plot and select two data sources. Then choose the **Subtract values** option as the merge function and subtract the Netflix Returns plot value from the S&P 500 Returns plot value.
 
 <iframe src="https://sigma-lab.netlify.app/plot/e618d687-8ba7-4b43-8c52-3d1602b042d5/embed"></iframe>
 
