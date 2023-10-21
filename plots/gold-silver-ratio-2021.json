@@ -1,0 +1,58 @@
+{
+    "id": "2da1da54-0888-4c93-b1cf-554746d920ac",
+    "name": "Gold Silver Ratio (2021)",
+    "type": "PERCENT",
+    "group": {
+        "readableId": "1a9cd9",
+        "rootCrunchId": "b36da79b-8926-4668-badf-b5cb552af35e",
+        "crunches": [
+            {
+                "id": "c8df852c-786c-4c5c-bcc0-fb11bf77a487",
+                "type": "DATA_SOURCE",
+                "dataSourceType": "SUB_PLOT",
+                "subPlotId": "53ae53"
+            },
+            {
+                "id": "fe770921-2319-4c47-86eb-a3c36beba3bf",
+                "type": "DATA_SOURCE",
+                "dataSourceType": "SUB_PLOT",
+                "subPlotId": "4ac915"
+            },
+            {
+                "id": "b36da79b-8926-4668-badf-b5cb552af35e",
+                "type": "MERGE",
+                "mergeType": "DIVISION",
+                "childCrunchId1": "c8df852c-786c-4c5c-bcc0-fb11bf77a487",
+                "childCrunchId2": "fe770921-2319-4c47-86eb-a3c36beba3bf"
+            }
+        ],
+        "subPlots": [
+            {
+                "readableId": "53ae53",
+                "rootCrunchId": "1602eda3-2d18-434c-9d90-59c1db84833c",
+                "crunches": [
+                    {
+                        "id": "1602eda3-2d18-434c-9d90-59c1db84833c",
+                        "type": "DATA_SOURCE",
+                        "dataSourceType": "RAW_DATA",
+                        "dataSourceId": "ce9cd8bb-945c-475e-8af0-bde8bcc81bca"
+                    }
+                ],
+                "subPlots": []
+            },
+            {
+                "readableId": "4ac915",
+                "rootCrunchId": "1cb5fd9d-75bb-4ea1-af42-33588c456fcb",
+                "crunches": [
+                    {
+                        "id": "1cb5fd9d-75bb-4ea1-af42-33588c456fcb",
+                        "type": "DATA_SOURCE",
+                        "dataSourceType": "RAW_DATA",
+                        "dataSourceId": "2646164b-f90d-492e-b988-b86298bdf0fa"
+                    }
+                ],
+                "subPlots": []
+            }
+        ]
+    }
+}
