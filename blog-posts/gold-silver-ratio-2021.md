@@ -36,7 +36,7 @@ There are several ways to diversify your portfolio with gold and silver. The mos
 
 ### Bullion Coins and Bars
 
-You can purchase physical gold and silver in the form of coins or bars from reputable dealers or mints.Look for products that have a high purity level and are widely recognized, such as American Gold Eagles or Canadian Silver Maple Leafs. Storing these metals securely is crucial to protect your investment.
+You can purchase physical gold and silver in the form of coins or bars from reputable dealers or mints. Look for products that have a high purity level and are widely recognized, such as American Gold Eagles or Canadian Silver Maple Leafs. Storing these metals securely is crucial to protect your investment.
 
 ### Gold and Silver ETFs
 
