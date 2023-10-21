@@ -44,4 +44,5 @@ You can invest in gold and silver through exchange-traded funds that track the p
 
 ## Similar Articles
 
+- [Gold to Silver Ratio (2020)](/blog/gold-silver-ratio-2020)
 - [Gold to Silver Ratio (2021)](/blog/gold-silver-ratio-2021)

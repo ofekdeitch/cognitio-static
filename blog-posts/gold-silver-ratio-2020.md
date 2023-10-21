@@ -1,30 +1,30 @@
-- In 2021, the gold-to-silver ratio averaged 71.9
-- 29 September 2021 marked the highest peak of the gold-to-silver ratio at 81.8
-- 1 February 2021 marked the lowest peak of the gold-to-silver ratio at 64.2
+- In 2020, the gold-to-silver ratio averaged 89.05
+- 18 March, 2020 marked the highest peak of the gold-to-silver ratio at 123.28
+- 18 August, 2020 marked the lowest peak of the gold-to-silver ratio at 69.24
 
-## Gold to Silver Ratio in 2021
+## Gold to Silver Ratio in 2020
 
-<iframe src="https://sigma-lab.netlify.app/plot/2da1da54-0888-4c93-b1cf-554746d920ac/embed"></iframe>
+<iframe src="https://sigma-lab.netlify.app/plot/bac0b899-14b0-497e-82ce-1cfbd7a95b33/embed"></iframe>
 
-## Price of Gold in 2021
+## Price of Gold in 2020
 
-<iframe src="https://sigma-lab.netlify.app/plot/4594a8b0-1143-4eb7-b2f4-2ee201115872/embed"></iframe>
+<iframe src="https://sigma-lab.netlify.app/plot/fad0eb5f-e9f7-493e-879b-f6fab4ed7b78/embed"></iframe>
 
-## Price of Silver in 2021
+## Price of Silver in 2020
 
-<iframe src="https://sigma-lab.netlify.app/plot/fd8a81ad-6571-4721-9d2f-4d8f49574c4a/embed"></iframe>
+<iframe src="https://sigma-lab.netlify.app/plot/827e9d70-95f5-47ae-a894-efda1925ec62/embed"></iframe>
 
 ## Calculating the Ratio
 
 In order to calculate the ratio of gold to silver price, divide the price of gold by the price of silver. 
 
-Let’s take 28 May, 2021 as an example. 
+Let’s take 12 October, 2020 as an example. 
 
-Price of gold: $1909.49
+Price of gold: $1922.94
 
-Price of silver $27.91
+Price of silver $25.11
 
-Gold to silver price ratio: 1909.49 / 27.91 = 68.46
+Gold to silver price ratio: 1922.94 / 25.11 = 76.58
 
 ## The Meaning of the Ratio
 
@@ -44,5 +44,5 @@ You can invest in gold and silver through exchange-traded funds that track the p
 
 ## Similar Articles
 
-- [Gold to Silver Ratio (2020)](/blog/gold-silver-ratio-2020)
+- [Gold to Silver Ratio (2021)](/blog/gold-silver-ratio-2021)
 - [Gold to Silver Ratio (2022)](/blog/gold-silver-ratio-2022)
