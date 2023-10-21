@@ -1,5 +1,3 @@
-For investors interested in precious metals, the gold-silver ratio is a useful indicator. Here's a comparison of the historical gold and silver price ratio for the year 2021.
-
 - In 2021, gold silver ratio averaged X
 - Blah 2021 marked the highest peak of the gold-to-silver ratio at X
 - Blah 2021 marked the lowest peak of the gold-to-silver ratio at 1.2
