@@ -41,3 +41,7 @@ You can purchase physical gold and silver in the form of coins or bars from repu
 ### Gold and Silver ETFs
 
 You can invest in gold and silver through exchange-traded funds that track the price of these metals. ETFs provide a way to gain exposure to the precious metals market without holding physical assets. Some popular gold and silver ETFs include SPDR Gold Trust (GLD) and iShares Silver Trust (SLV).
+
+## Similar Articles
+
+- [Gold to Silver Ratio (2022)](/blog/gold-silver-ratio-2022)
