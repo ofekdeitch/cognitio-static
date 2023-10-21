@@ -6,11 +6,11 @@
 
 <iframe src="https://sigma-lab.netlify.app/plot/2da1da54-0888-4c93-b1cf-554746d920ac/embed"></iframe>
 
-## Prices of Gold in 2021
+## Price of Gold in 2021
 
 <iframe src="https://sigma-lab.netlify.app/plot/4594a8b0-1143-4eb7-b2f4-2ee201115872/embed"></iframe>
 
-## Prices of Silver in 2021
+## Price of Silver in 2021
 
 <iframe src="https://sigma-lab.netlify.app/plot/fd8a81ad-6571-4721-9d2f-4d8f49574c4a/embed"></iframe>
 
