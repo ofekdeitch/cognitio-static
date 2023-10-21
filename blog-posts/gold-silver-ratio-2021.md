@@ -1,6 +1,6 @@
-- In 2021, the gold-to-silver ratio averaged X
-- Blah 2021 marked the highest peak of the gold-to-silver ratio at X
-- Blah 2021 marked the lowest peak of the gold-to-silver ratio at 1.2
+- In 2021, the gold-to-silver ratio averaged 71.9
+- 29 September 2021 marked the highest peak of the gold-to-silver ratio at 81.8
+- 1 February 2021 marked the lowest peak of the gold-to-silver ratio at 64.2
 
 ## Gold to Silver Ratio in 2021
 
