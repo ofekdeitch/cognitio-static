@@ -28,7 +28,7 @@ Gold to silver price ratio: 1974.8 / 25.66 = 76.96
 
 ## The Meaning of the Ratio
 
-To put it simply, this ratio tells us how mayn ounces of silver it takes to buy an ounce of gold. A ratio of 2 means one ounce of gold would cost two ounces of silver.
+To put it simply, this ratio tells us how many ounces of silver it takes to buy an ounce of gold. A ratio of 2 means one ounce of gold would cost two ounces of silver.
 
 ## Buying Gold and Silver
 
