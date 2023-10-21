@@ -1,7 +1,7 @@
 {
     "id": "2da1da54-0888-4c93-b1cf-554746d920ac",
     "name": "Gold Silver Ratio (2021)",
-    "type": "PERCENT",
+    "type": "RATIO",
     "group": {
         "readableId": "1a9cd9",
         "rootCrunchId": "b36da79b-8926-4668-badf-b5cb552af35e",
